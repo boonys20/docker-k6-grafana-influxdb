@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../kx-workspace/kx-bigfin-main-service-loadtest"
+		},
+		{
+			"path": "../../kx-workspace/kx-bigfin-main-service"
+		},
+		{
+			"path": "../../kx-workspace/kx-coral-frontend"
+		}
+	],
+	"settings": {}
+}

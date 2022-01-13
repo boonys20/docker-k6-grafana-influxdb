@@ -1,0 +1,7 @@
+{
+    "baseURL": "https://dev-api.test-coral.app",
+    "baseURL_bk": "http://localhost:18000",
+    "vus": 1000,
+    "iterations": 10,
+    "duration": "3600s"
+}
